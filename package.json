@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord RPC Made By Ahad#3257",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruelDev69/Discord-RPC.git"
+  },
+  "keywords": [
+    "rich-presence",
+    "discord",
+    "github",
+    "RPC",
+    "ahad",
+    "cruel",
+    "vivre",
+    "vivre-music",
+    "cool-status"
+  ],
+  "author": "Ahad#3257",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CruelDev69/Discord-RPC/issues"
+  },
+  "homepage": "https://github.com/CruelDev69/Discord-RPC#readme"
+}
