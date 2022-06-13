@@ -2,7 +2,7 @@
 Discord Rich Presence made with ♥ by Ahad#3257
 
 # How To Use?
-It's very simple just follow the steps written below.
+It's very simple just follow the steps written below or see tutorial on [YouTube](https://youtu.be/wKnyHYQczHk) so you can understand steps easily.
 
 Run `setup.bat` to install all dependencies.
 
