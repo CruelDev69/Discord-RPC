@@ -17,14 +17,16 @@ Run `start.bat`
 ### Is it hostable?
 ***
 No, you can't host this on a VPs.
-***
+
 ### Is it require to provide my token for Rich Presence?
 ***
 No
+
 ***
 
 <p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/868481053910790175/985291033258639360/unknown.png"/></p>
 
+***
 # Note:
 Use it but please give credits to author.
 
