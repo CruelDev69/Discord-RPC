@@ -38,4 +38,4 @@ Skidding this code is not allowed if you see anyone taking credits of this scrip
 [Website](https://www.itscruel.cf/) 
 
 # Discord: Ahad#3257
-If you liked this music bot please don't forget to give it a star it would mean a lot.
+If you liked this repo please don't forget to give it a star it would mean a lot.
